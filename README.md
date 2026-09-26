@@ -24,3 +24,4 @@ The traditional financial system is bloated, over-regulated, and built to benefi
 
 The contract is designed with reward mechanism built for holders.
 CA: 
+ANnokcR4iE4MRe67XjyaGe8U8zDWrqQBiRdRwn7xJNYV
