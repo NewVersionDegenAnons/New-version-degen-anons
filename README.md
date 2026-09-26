@@ -1,6 +1,7 @@
 
 # $NVDA — New Version of Degen Anons 
-If you are here, it's because you are one of us. One of the new version of degen Anons. NVDA Remains Anon.
+If you are here, it's because you are one of us. One of the New Version of Degen Anons.
+We are all the New Version of Degen Anons. NVDA Remains Anon.
 > **"We don't manufacture microchips. We manufacture green candles."**
 
 Welcome to the official repository of **$NVDA** (*New Version of Degen Anons*). Wall Street has their suits. We have our masks. Tradition failed you, so we built the trenches. This is the ultimate hedge against tradition. 
@@ -22,3 +23,4 @@ The traditional financial system is bloated, over-regulated, and built to benefi
 ## 📦 The Mechanics: The "Stonks" Ecosystem
 
 The contract is designed with reward mechanism built for holders.
+CA: Fa89cPvfqZjcVtLrYckEeXPg2FtXo4vGd5FfNLhCgszi
