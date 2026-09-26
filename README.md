@@ -23,4 +23,4 @@ The traditional financial system is bloated, over-regulated, and built to benefi
 ## 📦 The Mechanics: The "Stonks" Ecosystem
 
 The contract is designed with reward mechanism built for holders.
-CA: Fa89cPvfqZjcVtLrYckEeXPg2FtXo4vGd5FfNLhCgszi
+CA: 
